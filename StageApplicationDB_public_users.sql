@@ -1,0 +1,4 @@
+INSERT INTO public.users (id, email, first_name, last_name, password, terminal, user_name) VALUES (4, 'heddiomar@gmail.com', 'Haddi', 'Omar', '$2a$10$F/8PFRnMRLK.2Ani05BrXerPVy6qMBoUnZeLRmhwrjfyay8YmcFvG', 'T3', 'user1');
+INSERT INTO public.users (id, email, first_name, last_name, password, terminal, user_name) VALUES (5, 'test@test.ma', 'ossama', 'benladen', '$2a$10$pTMJlIhsMAdc80kHj7oASOEJqUNeWdIX6gL4.w7F58Udr2uiUuRiG', 'T2', null);
+INSERT INTO public.users (id, email, first_name, last_name, password, terminal, user_name) VALUES (2, 'heddiomar@gmail.com', 'Heddi', 'Omar', '$2a$10$hrpaLyLVb4R5HBmPfpF11.fljhQg38P8iGIXPKi/ODrAnBkRH.g0i', 'T1', 'admin2');
+INSERT INTO public.users (id, email, first_name, last_name, password, terminal, user_name) VALUES (7, 'heddiomar@gmail.com', 'Heddi', 'Omar', '$2a$10$T5oVmctoOnr5HTaNko9Pju.o3h0fngxZTePpgxvHlltxKpoMELMBe', 'adminTerminal', 'admin');

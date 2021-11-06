@@ -1,0 +1,1 @@
+-- INSERT INTO public.users (id, email, first_name, last_name, password, terminal, user_name) VALUES (1, 'heddiomar@gmail.com', 'Heddi', 'Omar', '$2a$10$T5oVmctoOnr5HTaNko9Pju.o3h0fngxZTePpgxvHlltxKpoMELMBe', 'adminTerminal', 'admin');

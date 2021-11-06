@@ -1,0 +1,4 @@
+2,,,false,Input req,1,,,text,1
+3,,,false,Select req,2,"[{""value"":""0"",""viewValue"":""Select 1""},{""value"":""2"",""viewValue"":""Select 2""},{""value"":""3"",""viewValue"":""Select 3""}]",,,1
+4,,,false,Input,1,,,text,1
+8,x-large,bold,false,Titre du formulaire,4,,center,,1

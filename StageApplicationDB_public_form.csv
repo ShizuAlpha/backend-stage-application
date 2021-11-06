@@ -1,0 +1,6 @@
+45,2021-09-01,"[{""label"":""label"",""isRequired"":true,""user"":1,""type"":""text"",""nature"":1}]",basic input fr,false,1
+46,2021-09-01,"[{""label"":""لابل"",""isRequired"":true,""user"":1,""type"":""text"",""nature"":1}]",arabic input,true,1
+47,2021-09-01,"[{""label"":""Select"",""isRequired"":true,""user"":1,""nature"":2,""selectEntries"":[{""value"":""0"",""viewValue"":""Select 1""},{""value"":""2"",""viewValue"":""Select 2""},{""value"":""3"",""viewValue"":""Select 3""}]}]",Select test,false,1
+49,2021-09-01,"[{""label"":""Radio"",""isRequired"":true,""user"":1,""nature"":5,""selectEntries"":[{""value"":""1"",""viewValue"":""Radio 1""},{""value"":""2"",""viewValue"":""Radio 2""},{""value"":""NewValue"",""viewValue"":""New Value""}]}]",Radio test,false,1
+50,2021-09-01,"[{""label"":""Text Area"",""isRequired"":true,""user"":1,""nature"":3}]",Text Area test,false,1
+51,2021-09-01,"[{""label"":""Checkbox"",""isRequired"":true,""user"":1,""nature"":6,""selectEntries"":[{""value"":""true"",""viewValue"":""Checkbox 1""},{""value"":""2"",""viewValue"":""Checkbox 2""},{""value"":""NewValue"",""viewValue"":""New Value""}]}]",Checkbox test,false,1
